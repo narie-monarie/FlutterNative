@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD2PdKMjhLDsQZXwF-Qnp9tuTjfVqwwv9I',
-    appId: '1:637905690799:web:17b30bbb335e097c6fb45a',
-    messagingSenderId: '637905690799',
-    projectId: 'authtutorial-de80c',
-    authDomain: 'authtutorial-de80c.firebaseapp.com',
-    storageBucket: 'authtutorial-de80c.appspot.com',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    authDomain: ,
+    storageBucket: ,
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA8d-FWDmv6E0QbtoRF6ih_ilZc-1Vj08M',
-    appId: '1:637905690799:android:e8bc54bf75db03016fb45a',
-    messagingSenderId: '637905690799',
-    projectId: 'authtutorial-de80c',
-    storageBucket: 'authtutorial-de80c.appspot.com',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    storageBucket: ,
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyADAlJVsAlvX4yekAxgd84NuU1-ALF0Lm0',
-    appId: '1:637905690799:ios:88f47a6f5de9318a6fb45a',
-    messagingSenderId: '637905690799',
-    projectId: 'authtutorial-de80c',
-    storageBucket: 'authtutorial-de80c.appspot.com',
-    iosClientId: '637905690799-9shnm980f8q6vjk9rbq6eih4tfp1l7jg.apps.googleusercontent.com',
-    iosBundleId: 'com.example.modernlogintute',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ',
+    storageBucket: ,
+    iosClientId: ,
+    iosBundleId: ,
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyADAlJVsAlvX4yekAxgd84NuU1-ALF0Lm0',
-    appId: '1:637905690799:ios:88f47a6f5de9318a6fb45a',
-    messagingSenderId: '637905690799',
-    projectId: 'authtutorial-de80c',
-    storageBucket: 'authtutorial-de80c.appspot.com',
-    iosClientId: '637905690799-9shnm980f8q6vjk9rbq6eih4tfp1l7jg.apps.googleusercontent.com',
-    iosBundleId: 'com.example.modernlogintute',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    storageBucket: ,
+    iosClientId: ,
+    iosBundleId: ,
   );
 }
