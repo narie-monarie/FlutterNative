@@ -1,5 +1,5 @@
 import 'package:all_widgets/model/cart_model.dart';
-import 'package:all_widgets/pages/home_items.dart';
+import 'package:all_widgets/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
             useMaterial3: true,
             textTheme: GoogleFonts.ptSansCaptionTextTheme(),
           ),
-          home: const HomeItems(),
+          home: const HomePage(),
         ));
   }
 }
